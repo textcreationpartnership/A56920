@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Quakers last shift found out, or, An answer to Will. Penn's complaint against the meeting at Barbican, upon the 28th. of August, 1674 and his new way of stating an old challenge.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56920</idno>
+            <idno type="STC">Wing Q26</idno>
+            <idno type="STC">ESTC R21052</idno>
+            <idno type="EEBO-CITATION">12737421</idno>
+            <idno type="OCLC">ocm 12737421</idno>
+            <idno type="VID">93026</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56920)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93026)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 820:35)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Quakers last shift found out, or, An answer to Will. Penn's complaint against the meeting at Barbican, upon the 28th. of August, 1674 and his new way of stating an old challenge.</title>
+               </titleStmt>
+               <extent>[2], 2 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.M.</publisher>
+                  <publisher>and are sold by D. Newman ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Penn, William, 1644-1718.</term>
+               <term>Society of Friends --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93026:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 13 -->
+            <p>THE QUAKERS Laſt Shift found Out: Or, an ANSWER to WILL. PENN'S Complaint againſt the Meeting at Barbican, Upon the 28th. of <hi>Auguſt,</hi> 1674. AND <hi>His New Way of Stating an Old Challenge.</hi>
+            </p>
+            <p>LONDON, Printed by <hi>T.M.</hi> and are to be Sold by <hi>D. Newman</hi> in the <hi>Poultry,</hi> 1674.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:93026:2"/>
+            <!-- PDF PAGE 14 -->
+            <pb n="1" facs="tcp:93026:2"/>
+            <!-- PDF PAGE 14 -->
+            <head>The Quakers laſt ſhift found out, <hi>&amp;c.</hi>
+            </head>
+            <p>MEeting with a Paper given about the Streets, and at Coffee-Houſes, it lookt at firſt ſomewhat like a Doctors Bill; but taking it into my hands to read, I quickly perceived from whence it came, and what the Author <hi>(William Pen)</hi> would be at, <hi>viz.</hi> to caſt ſome ſmall rubs in the way of thoſe whom he had juſt cauſe to fear would be awakened and made to ſee how miſerably they have been deluded and abuſed by one, and other heads of the Quakers, if they were either preſent at, or have heard of the horrible Doctrines and practi<g ref="char:EOLhyphen"/>ces of ſeveral of them (and they, none of the inconſiderableſt of their Tribe) laid open and manifeſted in the ſight and hearing of many hundreds, at a publick Meeting of Chriſtians aſſembled at <hi>Barbican</hi> the 28th. of <hi>Au<g ref="char:EOLhyphen"/>guſt,</hi> 1674.</p>
+            <p>The occaſion of which ſolemn Meeting was this: It having pleaſed God to make <hi>Thomas Hicks</hi> very inſtrumental (by his Book intituled, <hi>A Dia<g ref="char:EOLhyphen"/>logue between a Chriſtian, and a Quaker</hi>) to bring to light ſeveral of the Quakers opinions and practices, and thereby undeceive the minds of ſeve<g ref="char:EOLhyphen"/>ral honeſt and well-meaning perſons whom they had brought over to their <hi>Perſwaſion;</hi> this turned the canting ſpirit, into a raging Devil, againſt the ſaid <hi>T. H.</hi> inſomuch, that <hi>W. P.</hi> could not forbear boldly to tell him, that <hi>his head ſhould not go down to the Grave in peace.</hi>
+            </p>
+            <p>But perceiving thoſe menacing expreſſions to have no deſirable effect for ſtopping his mouth, or hindring his Pen; but on the contrary, he grew more bold for God, his Truth, <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd the intereſt of Holineſs, and put out his third part of <gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>logues; <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> all perſons, into whoſe hands that Book ſhould come, <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat if at any time they hear he was aſſaſſinated, they would remember thoſe words of <hi>W. Pen</hi> to him.</p>
+            <p>The Quakers think of another expedient, and that is, by courting the Baptiſts in and about <hi>London,</hi> to ſpeak to <hi>T. H.</hi> as they tender the glory of God, and the honour of Religion, that he write no more ſuch Dialogues: take it in their own words. <q>Now, if you the Teachers and Elders, <hi>&amp;c.</hi> among the <hi>Baptized People,</hi> do not publickly clear your ſelves of <hi>Thomas Hicks,</hi> and theſe his unjuſt Proceedings againſt us; and hereafter he further perſiſts therein, We may take it for granted, that you own his Work; and may juſtly deal with him, and purſue him, not only as <hi>Tho. Hicks,</hi> but as the <hi>Baptiſts</hi> great Champion, peculiar Agent, or Repreſentative. But if you ingenuouſly clear your ſelves of him &amp; his Corrupt, Perverſe Work; then his future Miſcarriages will be chargeable only upon <hi>T. Hicks</hi> himſelf, and you will appear to the World ſo far clear thereof, and approve your ſelves the more honeſt and ſincere towards God, Truth, and Religion.</q> Upon this appeal, the Teachers and Elders amongſt that People deſired that <hi>T. H.</hi> would in a publick Meeting, bring forth his evidence, and produce his Witneſſes, as to what errors and vices he had charged on the Quakers in his three Dialogues, and which they had with ſo much confidence deny<g ref="char:EOLhyphen"/>ed: And becauſe the Quakers ſhould have timely notice of it, Mr. <hi>Kiffin,</hi> Mr. <hi>Knowls,</hi> and four others, wrote Letters the 15th. of <hi>Auguſt</hi> to <hi>W. P.</hi> and <hi>G. Whitehead,</hi> informing them of the place and time that they had ap<g ref="char:EOLhyphen"/>pointed (in perſuance of their own appeal to them) <hi>T. H.</hi> in publick, to
+<pb n="2" facs="tcp:93026:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 15 -->make good his Charge on the 28th. day of that moneth, at <hi>Barbican,</hi> ſtating not only the day, but place and hour. <hi>W. P.</hi> his Letter was ſealed and de<g ref="char:EOLhyphen"/>livered to <hi>Philip Ford</hi> (who is <hi>W. P.</hi> his Agent in <hi>London</hi>) who returned anſwer, That <hi>W. P.</hi> was out of Town; yet the ſaid <hi>Philip Ford</hi> had an op<g ref="char:EOLhyphen"/>portunity thereby given him, to acquaint the reſt of the Quakers of the ſaid Meeting, appointed at their own inſtance and requeſt, and it is Reported, that <hi>W. P.</hi> himſelf was at home the very Night before the Meeting was, and ſo needed neither Letter nor Meſſenger to inform him.</p>
+            <p>And whereas <hi>W. P.</hi> ſaith, he is alſo aſſured by a Letter of <hi>G. VVhitehead</hi> from <hi>Briſtol,</hi> that he received no account of the Meeting until the 29th. of the laſt month, being the day after its appointment; by a good providence, the contrary of that is cleared, for <hi>T. Hicks</hi> having occaſion to write the <hi>Tueſday</hi> before to a Friend at the <hi>Vizes,</hi> accidentally it happened that <hi>G. VVhitehead</hi> was then in the ſame Town, and ſaw the Letter; this is ready to be atteſted and proved, when occaſion ſhall ſerve. Yea, ſo careful was <hi>T. H.</hi> and his Friends to prevent the leaſt colour for the Quakers pretending Ignorance in this Meeting, that they did not fail to inform all they met with; and as for <hi>J. Oſgood,</hi> he had a Letter alſo delivered into his own hands upon the <hi>Exchange,</hi> in the ſight of the ſaid <hi>T. H.</hi> wherein himſelf and Friends were invited to hear the ſame, which trouble and care was more than the Baptiſts were obliged to be at, they having no tye upon themſelves to have the Quakers there, yet were heartily glad to ſee ſo many of them come; and it is credibly re<g ref="char:EOLhyphen"/>ported, that even thoſe, came contrary to the order of their Leaders. For the Bap<g ref="char:EOLhyphen"/>tiſts were the people appealed to, and theſe are <hi>William Pens</hi> own words, <hi>viz. <hi>That to which an Appeal is made, muſt be capable of giving an Infallible Iudgment, and ſo a true Iudge, or elſe the Appeal is Fooliſh.</hi> Spirit of truth Vin<g ref="char:EOLhyphen"/>dicated,</hi> Pag. 78.</p>
+            <p>And therefore <hi>W. P.</hi> prevaricates, when he ſaith, that the Baptiſt concerned them in a meeting; for it was they that concerned the Baptiſt in that Meeting; and it was purely upon the account of their own Appeal, for they were men of buſineſs and occaſions, as well as the Quakers, and their time as precious to them.</p>
+            <p>As for <hi>W. P.</hi> telling the world, that he offered <hi>J. Gladman</hi> to meet the ſaid <hi>T. Hicks</hi> with the Bible in one hand, &amp; his Dialogues in the other; the ſaid <hi>J. Gladman</hi> doth remember that <hi>W. P.</hi> and he, had ſome words about <hi>T. H.</hi> and his Book; but that there was any formal challenge urged by <hi>W. P.</hi> or rejected by him, he wholly de<g ref="char:EOLhyphen"/>nys: But on the contrary, he ſaith, that if any ſuch formal challenge had been, he would have acquainted <hi>T. H.</hi> with it, who hath offered it long agoe with theſe Conditions. (1) That he might have liberty to produce their own Books, and to have them read openly (as they were at the Publick meeting). (2) That a rule might be agreed on, to determine their Diſcourſe by. (3) That but one at a time might ſpeak. (4) That <hi>W. P.</hi> would promiſe to ſpeak directly and plainly to each Queſtion. (Laſtly), That any man that would, might write after them. <hi>Dialogue</hi> 3. Page 87. How<g ref="char:EOLhyphen"/>ever, <hi>W. P.</hi> is to be commended for his prudence to offer another meeting, but the time and place, that is reſerved in his own breſt: But however, he would do well, to tell the World what he would have for more ſatisfaction then hath been done; and that in the very way and manner that he hath himſelf propounded to be con<g ref="char:EOLhyphen"/>cluded by: For <hi>T. H.</hi> had but two ſorts of Accuſations to make good againſt the Quakers; the firſt was as to their Doctrine, for which he produced their own Books, the Authors being of the Eminen'ſt, and ſuch as had moſt eſteem by their own party to prove every title: the other was matter of Fact, which was ſo groſs and palpable, that he brought witneſſeſs <hi>Viva Voce,</hi> to the Satisfaction of all to whom they had ap<g ref="char:EOLhyphen"/>pealed: And if they will but have a little Patience, they ſhall have it yet more Pub<g ref="char:EOLhyphen"/>lick, and as loud as the preſs can ſpeak, that the World may ſee their Errors con<g ref="char:EOLhyphen"/>demned out of their own Mouths; and their practices Spoken againſt by all that call themſelves Chriſtians.</p>
+            <closer>
+               <dateline>
+                  <hi>London</hi> 
+                  <date>
+                     <hi>September</hi> 8. 1674.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
